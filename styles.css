@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: xx-large;
+}
+
+h2 {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-style: normal;
+    font-variant: small-caps;
+    font-size: x-large;
+    
+}
+
+p {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+
+li {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size: small;
+}
+body {
+    width: 56%;
+    margin-left: 22%;
+    margin-right: 22%;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
